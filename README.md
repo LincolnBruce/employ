@@ -1,4 +1,4 @@
-# employ
+# employ Product Manager From yijian.tv
 工作职责：
 * -负责所有产品终端和后台管理系统的迭代；
 * -负责产品需求的管理，具备较强的文档、原型和文案能力；
